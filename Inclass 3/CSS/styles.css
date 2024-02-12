@@ -1,0 +1,14 @@
+/*Timur Fermand 7979362*/
+body {
+    color:hsla(88, 100%, 50%, 0.712);
+    background-color: hsla(236, 100%, 50%, 0.466);
+    height: 10vh;
+    width: 30vw;
+}
+h2 {
+    color: #fc7;
+    font-size: 100%;
+}
+footer p::first-line {
+    font-size: 10px;
+}
